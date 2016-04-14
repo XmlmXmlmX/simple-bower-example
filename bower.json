@@ -1,0 +1,19 @@
+{
+  "name": "tts-festool-styles",
+  "description": "",
+  "main": "style.scss",
+  "authors": [
+    "tts"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/XmlmXmlmX/simple-bower-example",
+  "moduleType": [],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
